@@ -12,7 +12,7 @@ public class Practice2 {
     public static void main(String[] args) {
         
         
-        System.out.println("Heyy dear   guys");
+        System.out.println("Heyy dear yy guys");
     }
     
 }
